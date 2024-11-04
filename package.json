@@ -29,11 +29,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/expo/expo-phaser.git"
+    "url": "https://github.com/asifZaman0362/expo-phaser-3.git"
   },
   "dependencies": {
-    "@expo/browser-polyfill": "^0.0.0-alpha.4",
-    "phaser-ce": "^2.9.4"
+    "@expo/browser-polyfill": "^1.0.1",
+    "phaser": "^3.80.1"
   },
   "directories": {
     "example": "examples",
